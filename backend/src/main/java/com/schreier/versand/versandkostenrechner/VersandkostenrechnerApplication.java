@@ -8,6 +8,7 @@ public class VersandkostenrechnerApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(VersandkostenrechnerApplication.class, args);
+		System.out.println("test");
 	}
 
 }
