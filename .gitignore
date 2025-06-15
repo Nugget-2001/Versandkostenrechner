@@ -1,0 +1,9 @@
+# Maven Build-Ordner
+/target/
+
+# IntelliJ IDEA Projektdateien
+/.idea/
+/*.iml
+
+# Secret Datei (lokale Konfigurationsdatei)
+backend/src/main/resources/application-secret.properties
